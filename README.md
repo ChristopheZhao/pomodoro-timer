@@ -44,12 +44,12 @@ Pomodoro Task Manager is a productivity application that helps you manage your t
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ChristopheZhao/pomodoro-timer
 
 2. **Navigate to the project directory**
 
    ```bash
-   cd your-repo-name
+   cd pomodoro-timer
    ```
 
 3. **Install dependencies**
