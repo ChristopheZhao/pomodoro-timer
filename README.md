@@ -1,6 +1,6 @@
 # Pomodoro Task Manager
 
-A simple Pomodoro timer and task management application built with Vue.js, TypeScript, and Vite.
+A simple Pomodoro timer and task management application built with Vue.js, TypeScript, and Vite, also using chatGPT o1-preview for code generation.
 
 ## Table of Contents
 
