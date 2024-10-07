@@ -56,12 +56,6 @@ Pomodoro Task Manager is a productivity application that helps you manage your t
    npm install
    ```
 
-4. **Install TypeScript type definitions**
-
-   ```bash
-   npm install --save-dev @types/flatpickr
-   ```
-
 ## Usage
 
 1. **Start the development server**
