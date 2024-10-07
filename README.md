@@ -8,10 +8,8 @@ A simple Pomodoro timer and task management application built with Vue.js, TypeS
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -63,3 +61,21 @@ Pomodoro Task Manager is a productivity application that helps you manage your t
    ```bash
    npm install --save-dev @types/flatpickr
    ```
+
+## Usage
+
+1. **Start the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+2. **Open your browser and navigate to**
+
+   ```bash
+   http://localhost:5173
+   ```
+
+## Contributing
+
+We welcome contributions to this project! If you have any suggestions or improvements, please open an issue or submit a pull request.
